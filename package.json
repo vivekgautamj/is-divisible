@@ -1,6 +1,6 @@
 {
   "name": "is-divisible-by-3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A math library to check if a number is divisible by 3 or not ",
   "main": "index.js",
   "scripts": {
