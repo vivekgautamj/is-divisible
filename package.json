@@ -1,0 +1,27 @@
+{
+  "name": "is-divisible-by-3",
+  "version": "1.0.0",
+  "description": "A math library to check if a number is divisible by 3 or not ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vivekgautamj/is-divisible.git"
+  },
+  "keywords": [
+    "divisible",
+    "by",
+    "3",
+    "divided",
+    "by",
+    "3"
+  ],
+  "author": "Vivek Gautam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivekgautamj/is-divisible/issues"
+  },
+  "homepage": "https://github.com/vivekgautamj/is-divisible#readme"
+}
